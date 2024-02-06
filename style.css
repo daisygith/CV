@@ -48,3 +48,7 @@ section,
     list-style: none;
 }
 
+header li{
+    margin-bottom: 15px;
+}
+
