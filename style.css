@@ -44,3 +44,7 @@ section,
     justify-content: space-between;
  }
 
+ ul{
+    list-style: none;
+}
+
