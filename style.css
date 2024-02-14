@@ -9,11 +9,138 @@ h1 {
     margin-bottom: 10px;
 
 }
-
 h2 {
     font-size: 28px;
+}
 
- }
+
+.skills .allSkills{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    padding-top: 2px;
+}
+
+.allSkills #p1{
+    margin-left: 5px;
+    font-size: 17px;
+    float: left;
+    width: 50px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+
+.allSkills #p2{
+    margin-left: 5px;
+    font-size: 17px;
+    float: left;
+    width: 160px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+.allSkills #p3{
+    margin-left: 5px;
+    font-size: 17px;
+    float: left;
+    width: 105px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+.allSkills #p4{
+    margin-left: 5px;
+    font-size: 17px;
+    float: left;
+    width: 57px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+.allSkills #p5{
+    margin-left: 5px;
+    font-size: 17px;
+    float: left;
+    width: 57px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+.allSkills #p6{
+    margin-left: 5px;
+    font-size: 17px;
+    float: left;
+    width: 62px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+
+.allSkills #p7{
+    margin-left: 5px;
+    font-size: 17px;
+    float: left;
+    width: 166px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+
+.allSkills #k1{
+    margin-left: 5px;
+    margin-top: 2px;
+    font-size: 17px;
+    float: left;
+    width: 508px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+.allSkills #k2{
+    margin-left: 5px;
+    margin-top: 2px;
+    font-size: 17px;
+    float: left;
+    width: 444px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+.allSkills #k3{
+    margin-left: 5px;
+    margin-top: 2px;
+    font-size: 17px;
+    float: left;
+    width: 276px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+
+.allSkills #k4{
+    margin-left: 5px;
+    margin-top: 2px;
+    font-size: 17px;
+    float: left;
+    width: 500px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px 5px 8px 4px;
+}
+
 
 h3 {
     margin-top: 5px;
